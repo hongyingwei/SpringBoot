@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "woniuxy.hello.message",
+      "type": "java.lang.String",
+      "description": "Description for woniuxy.hello.message."
+  }
+] }

@@ -1,0 +1,16 @@
+## 自定义 SpringBoot Starter
+- 项目 customize-spring-boot-starter-example 包含两个模块
+    - spring-boot-starter-myhello: 
+        - 提供了 HelloService 类，及其自动装配的 starter
+        - 打包安装到本地仓库
+          - mvn clean install
+    - hello-app: 
+        - 调用 spring-boot-starter-myhello 库及其 starter 的 app
+- 参考
+  - 中文
+    - https://www.cnblogs.com/linjiqin/p/13436943.html
+    - https://www.cnblogs.com/juicypeach/p/15152281.html
+    - https://blog.csdn.net/CoderYin/article/details/103649754
+  - 英文
+    - https://www.baeldung.com/spring-boot-custom-starter
+    - https://www.javadevjournal.com/spring-boot/spring-boot-custom-starter

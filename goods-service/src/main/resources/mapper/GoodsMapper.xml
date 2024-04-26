@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.jsu.goods.mapper.GoodsMapper">
+    <select id="findAll" resultType="com.jsu.goods.entity.Goods">
+        SELECT * FROM goods
+    </select>
+
+    <insert id="saveMany" parameterType="com.jsu.goods.entity.Goods">
+        INSERT INTO goods (id, count, goodsName, goodsPic) VALUES
+			<foreach collection="goodsList" item="goods" separator=",">
+                (#{goods.id}, #{goods.count}, #{goods.goodsName}, #{goods.goodsPic})
+            </foreach>
+    </insert>
+</mapper>
