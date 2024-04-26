@@ -29,8 +29,8 @@ public class Application {
 	//@Value("${server.port:8080}")
 	// 必须明确写了才能去到（包括 application.yaml)
 	// 没写的话，默认值取不到
-//	@Value("${server.port}")
-//	String myProp;
+	@Value("${server.port}")
+	String myProp;
 
 	@Bean
 	public ViewResolver viewResolver() {
