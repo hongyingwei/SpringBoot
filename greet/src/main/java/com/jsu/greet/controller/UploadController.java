@@ -20,7 +20,7 @@ public class UploadController {
     private final Logger logger = Logger.getLogger("MyLog");
 
     // Save the uploaded file to this folder
-    private static final String UPLOADED_FOLDER = "/Users/jiang/t/";
+    private static final String UPLOADED_FOLDER = "\\images\\";
 
     @GetMapping("/go_upload")
     public String upload() {
@@ -46,6 +46,7 @@ public class UploadController {
             // StandardMultipartHttpServletRequest$StandardMultipartFile
 //            debug(req);
 //            logger.info("file.cls: " + file.getClass().getName());
+            System.out.println(System.getProperty("user.dir"));
             logger.info("file.getOriginalFilename: " + file.getOriginalFilename());
             logger.info("save path: " + path);
             logger.info("logger: " + logger);
