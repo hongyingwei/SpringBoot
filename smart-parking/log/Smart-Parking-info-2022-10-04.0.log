@@ -1,0 +1,66 @@
+2022-10-04 15:33:14.565 INFO  com.smart.Application Line:55  - Starting Application on USER-20190430WD with PID 6868 (E:\workSpace\projects\2022-09-28\1\smart-parking\target\classes started by Administrator in E:\workSpace\projects\2022-09-28\1\smart-parking)
+2022-10-04 15:33:14.570 INFO  com.smart.Application Line:655 - The following profiles are active: dev
+2022-10-04 15:33:18.406 INFO  org.apache.catalina.core.StandardService Line:173 - Starting service [Tomcat]
+2022-10-04 15:33:18.416 INFO  org.apache.catalina.core.StandardEngine Line:173 - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2022-10-04 15:33:18.693 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring embedded WebApplicationContext
+2022-10-04 15:33:26.098 INFO  com.smart.Application Line:61  - Started Application in 13.451 seconds (JVM running for 15.812)
+2022-10-04 15:33:26.103 INFO  com.smart.Application Line:29  - 智能停车场管理平台
+2022-10-04 15:33:57.948 INFO  org.apache.tomcat.util.http.parser.Cookie Line:173 - A cookie header was received [1645707550; Hm_lvt_f655f558c510211e38805f6b586e6b15=1654941385; Hm_lvt_8b02a318fde5831da10426656a43d03c=1658574502; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1658796233; NMTID=00O-ljccO1745haiE3AnKXgouYPWdIAAAGCYwy51w; user=18848830558_111111] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
+2022-10-04 15:33:57.963 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-04 15:33:58.046 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:233 - Enabling session validation scheduler...
+2022-10-04 15:38:14.672 INFO  com.baidu.aip.client.BaseClient Line:199 - get access_token success. current state: STATE_AIP_AUTH_OK
+2022-10-04 15:43:30.217 INFO  com.smart.Application Line:55  - Starting Application on USER-20190430WD with PID 10520 (E:\workSpace\projects\2022-09-28\1\smart-parking\target\classes started by Administrator in E:\workSpace\projects\2022-09-28\1\smart-parking)
+2022-10-04 15:43:30.227 INFO  com.smart.Application Line:655 - The following profiles are active: dev
+2022-10-04 15:43:34.184 INFO  org.apache.catalina.core.StandardService Line:173 - Starting service [Tomcat]
+2022-10-04 15:43:34.185 INFO  org.apache.catalina.core.StandardEngine Line:173 - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2022-10-04 15:43:34.388 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring embedded WebApplicationContext
+2022-10-04 15:43:40.646 INFO  com.smart.Application Line:61  - Started Application in 12.342 seconds (JVM running for 14.822)
+2022-10-04 15:43:40.652 INFO  com.smart.Application Line:29  - 智能停车场管理平台
+2022-10-04 15:45:59.854 INFO  org.apache.tomcat.util.http.parser.Cookie Line:173 - A cookie header was received [1645707550; Hm_lvt_f655f558c510211e38805f6b586e6b15=1654941385; Hm_lvt_8b02a318fde5831da10426656a43d03c=1658574502; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1658796233; NMTID=00O-ljccO1745haiE3AnKXgouYPWdIAAAGCYwy51w; user=18848830558_111111; JSESSIONID=30ac9ede-cbac-4984-b4ea-937b0d96eb7a] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
+2022-10-04 15:45:59.869 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-04 15:45:59.905 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:233 - Enabling session validation scheduler...
+2022-10-04 15:46:51.143 INFO  com.baidu.aip.client.BaseClient Line:199 - get access_token success. current state: STATE_AIP_AUTH_OK
+2022-10-04 15:52:22.545 INFO  com.smart.Application Line:55  - Starting Application on USER-20190430WD with PID 4800 (E:\workSpace\projects\2022-09-28\1\smart-parking\target\classes started by Administrator in E:\workSpace\projects\2022-09-28\1\smart-parking)
+2022-10-04 15:52:22.553 INFO  com.smart.Application Line:655 - The following profiles are active: dev
+2022-10-04 15:52:26.432 INFO  org.apache.catalina.core.StandardService Line:173 - Starting service [Tomcat]
+2022-10-04 15:52:26.433 INFO  org.apache.catalina.core.StandardEngine Line:173 - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2022-10-04 15:52:26.648 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring embedded WebApplicationContext
+2022-10-04 15:52:34.113 INFO  com.smart.Application Line:61  - Started Application in 14.587 seconds (JVM running for 17.191)
+2022-10-04 15:52:34.117 INFO  com.smart.Application Line:29  - 智能停车场管理平台
+2022-10-04 16:04:31.572 INFO  com.smart.Application Line:55  - Starting Application on USER-20190430WD with PID 2992 (E:\workSpace\projects\2022-09-28\1\smart-parking\target\classes started by Administrator in E:\workSpace\projects\2022-09-28\1\smart-parking)
+2022-10-04 16:04:31.578 INFO  com.smart.Application Line:655 - The following profiles are active: dev
+2022-10-04 16:04:35.705 INFO  org.apache.catalina.core.StandardService Line:173 - Starting service [Tomcat]
+2022-10-04 16:04:35.707 INFO  org.apache.catalina.core.StandardEngine Line:173 - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2022-10-04 16:04:35.922 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring embedded WebApplicationContext
+2022-10-04 16:04:42.627 INFO  com.smart.Application Line:61  - Started Application in 12.67 seconds (JVM running for 15.171)
+2022-10-04 16:04:42.632 INFO  com.smart.Application Line:29  - 智能停车场管理平台
+2022-10-04 16:04:55.621 INFO  org.apache.tomcat.util.http.parser.Cookie Line:173 - A cookie header was received [1645707550; Hm_lvt_f655f558c510211e38805f6b586e6b15=1654941385; Hm_lvt_8b02a318fde5831da10426656a43d03c=1658574502; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1658796233; NMTID=00O-ljccO1745haiE3AnKXgouYPWdIAAAGCYwy51w; user=18848830558_111111; JSESSIONID=5d0e270e-f83e-491c-abbd-4c75b5bebb71] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
+2022-10-04 16:04:55.636 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-04 16:04:55.699 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:233 - Enabling session validation scheduler...
+2022-10-04 16:05:36.053 INFO  com.smart.Application Line:55  - Starting Application on USER-20190430WD with PID 8644 (E:\workSpace\projects\2022-09-28\1\smart-parking\target\classes started by Administrator in E:\workSpace\projects\2022-09-28\1\smart-parking)
+2022-10-04 16:05:36.060 INFO  com.smart.Application Line:655 - The following profiles are active: dev
+2022-10-04 16:05:40.352 INFO  org.apache.catalina.core.StandardService Line:173 - Starting service [Tomcat]
+2022-10-04 16:05:40.354 INFO  org.apache.catalina.core.StandardEngine Line:173 - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2022-10-04 16:05:40.561 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring embedded WebApplicationContext
+2022-10-04 16:05:49.198 INFO  com.smart.Application Line:61  - Started Application in 15.031 seconds (JVM running for 17.536)
+2022-10-04 16:05:49.205 INFO  com.smart.Application Line:29  - 智能停车场管理平台
+2022-10-04 16:05:50.838 INFO  org.apache.tomcat.util.http.parser.Cookie Line:173 - A cookie header was received [1645707550; Hm_lvt_f655f558c510211e38805f6b586e6b15=1654941385; Hm_lvt_8b02a318fde5831da10426656a43d03c=1658574502; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1658796233; NMTID=00O-ljccO1745haiE3AnKXgouYPWdIAAAGCYwy51w; user=18848830558_111111] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
+2022-10-04 16:05:50.855 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-04 16:05:50.922 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:233 - Enabling session validation scheduler...
+2022-10-04 16:06:24.297 INFO  com.baidu.aip.client.BaseClient Line:199 - get access_token success. current state: STATE_AIP_AUTH_OK
+2022-10-04 16:09:16.924 INFO  com.smart.Application Line:55  - Starting Application on USER-20190430WD with PID 11180 (E:\workSpace\projects\2022-09-28\1\smart-parking\target\classes started by Administrator in E:\workSpace\projects\2022-09-28\1\smart-parking)
+2022-10-04 16:09:16.929 INFO  com.smart.Application Line:655 - The following profiles are active: dev
+2022-10-04 16:09:21.007 INFO  org.apache.catalina.core.StandardService Line:173 - Starting service [Tomcat]
+2022-10-04 16:09:21.009 INFO  org.apache.catalina.core.StandardEngine Line:173 - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2022-10-04 16:09:21.216 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring embedded WebApplicationContext
+2022-10-04 16:09:28.190 INFO  com.smart.Application Line:61  - Started Application in 13.745 seconds (JVM running for 16.168)
+2022-10-04 16:09:28.195 INFO  com.smart.Application Line:29  - 智能停车场管理平台
+2022-10-04 16:09:29.134 INFO  org.apache.tomcat.util.http.parser.Cookie Line:173 - A cookie header was received [1645707550; Hm_lvt_f655f558c510211e38805f6b586e6b15=1654941385; Hm_lvt_8b02a318fde5831da10426656a43d03c=1658574502; Hm_lvt_b393d153aeb26b46e9431fabaf0f6190=1658796233; NMTID=00O-ljccO1745haiE3AnKXgouYPWdIAAAGCYwy51w; user=18848830558_111111; JSESSIONID=a4973b72-e2b1-40bb-a6d3-77c996f0799b] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
+2022-10-04 16:09:29.148 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-04 16:09:29.198 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:233 - Enabling session validation scheduler...
+2022-10-04 16:10:00.810 INFO  com.baidu.aip.client.BaseClient Line:199 - get access_token success. current state: STATE_AIP_AUTH_OK

@@ -1,0 +1,86 @@
+2024-04-13 17:07:53.563 INFO  com.smart.Application Line:55  - Starting Application on DESKTOP-IU823TD with PID 21844 (D:\Project\毕设源码\01 源码\smart-parking\target\classes started by Administrator in D:\Project\毕设源码\01 源码\smart-parking)
+2024-04-13 17:07:53.565 INFO  com.smart.Application Line:655 - The following profiles are active: dev
+2024-04-13 17:07:55.379 INFO  org.apache.catalina.core.StandardService Line:173 - Starting service [Tomcat]
+2024-04-13 17:07:55.379 INFO  org.apache.catalina.core.StandardEngine Line:173 - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2024-04-13 17:07:55.441 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring embedded WebApplicationContext
+2024-04-13 17:07:57.945 INFO  com.smart.Application Line:61  - Started Application in 4.799 seconds (JVM running for 5.124)
+2024-04-13 17:07:57.946 INFO  com.smart.Application Line:29  - 智慧停车场管理平台
+2024-04-13 17:08:56.148 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-13 17:08:56.172 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:233 - Enabling session validation scheduler...
+2024-04-13 17:09:55.079 INFO  com.baidu.aip.client.BaseClient Line:199 - get access_token success. current state: STATE_AIP_AUTH_OK
+2024-04-13 17:17:15.490 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:250 - Disabled session validation scheduler.
+2024-04-13 17:17:18.325 INFO  com.smart.Application Line:55  - Starting Application on DESKTOP-IU823TD with PID 11416 (D:\Project\毕设源码\01 源码\smart-parking\target\classes started by Administrator in D:\Project\毕设源码\01 源码\smart-parking)
+2024-04-13 17:17:18.327 INFO  com.smart.Application Line:655 - The following profiles are active: dev
+2024-04-13 17:17:20.116 INFO  org.apache.catalina.core.StandardService Line:173 - Starting service [Tomcat]
+2024-04-13 17:17:20.117 INFO  org.apache.catalina.core.StandardEngine Line:173 - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2024-04-13 17:17:20.190 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring embedded WebApplicationContext
+2024-04-13 17:17:22.676 INFO  com.smart.Application Line:61  - Started Application in 4.73 seconds (JVM running for 5.059)
+2024-04-13 17:17:22.678 INFO  com.smart.Application Line:29  - 智慧停车场管理平台
+2024-04-13 17:17:29.861 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-13 17:17:29.878 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:233 - Enabling session validation scheduler...
+2024-04-13 17:18:10.197 INFO  com.baidu.aip.client.BaseClient Line:199 - get access_token success. current state: STATE_AIP_AUTH_OK
+2024-04-13 17:21:55.599 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:250 - Disabled session validation scheduler.
+2024-04-13 17:21:58.199 INFO  com.smart.Application Line:55  - Starting Application on DESKTOP-IU823TD with PID 19348 (D:\Project\毕设源码\01 源码\smart-parking\target\classes started by Administrator in D:\Project\毕设源码\01 源码\smart-parking)
+2024-04-13 17:21:58.201 INFO  com.smart.Application Line:655 - The following profiles are active: dev
+2024-04-13 17:21:59.937 INFO  org.apache.catalina.core.StandardService Line:173 - Starting service [Tomcat]
+2024-04-13 17:21:59.939 INFO  org.apache.catalina.core.StandardEngine Line:173 - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2024-04-13 17:22:00.040 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring embedded WebApplicationContext
+2024-04-13 17:22:02.652 INFO  com.smart.Application Line:61  - Started Application in 4.82 seconds (JVM running for 5.144)
+2024-04-13 17:22:02.655 INFO  com.smart.Application Line:29  - 智慧停车场管理平台
+2024-04-13 17:22:07.562 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-13 17:22:07.579 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:233 - Enabling session validation scheduler...
+2024-04-13 17:22:26.989 INFO  com.baidu.aip.client.BaseClient Line:199 - get access_token success. current state: STATE_AIP_AUTH_OK
+2024-04-13 17:24:41.402 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:250 - Disabled session validation scheduler.
+2024-04-13 17:24:44.164 INFO  com.smart.Application Line:55  - Starting Application on DESKTOP-IU823TD with PID 22644 (D:\Project\毕设源码\01 源码\smart-parking\target\classes started by Administrator in D:\Project\毕设源码\01 源码\smart-parking)
+2024-04-13 17:24:44.166 INFO  com.smart.Application Line:655 - The following profiles are active: dev
+2024-04-13 17:24:45.839 INFO  org.apache.catalina.core.StandardService Line:173 - Starting service [Tomcat]
+2024-04-13 17:24:45.840 INFO  org.apache.catalina.core.StandardEngine Line:173 - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2024-04-13 17:24:45.920 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring embedded WebApplicationContext
+2024-04-13 17:24:48.444 INFO  com.smart.Application Line:61  - Started Application in 4.653 seconds (JVM running for 4.977)
+2024-04-13 17:24:48.446 INFO  com.smart.Application Line:29  - 智慧停车场管理平台
+2024-04-13 17:24:52.124 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-13 17:24:52.139 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:233 - Enabling session validation scheduler...
+2024-04-13 18:24:52.161 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:275 - Validating all active sessions...
+2024-04-13 18:24:52.178 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:308 - Finished session validation.  No sessions were stopped.
+2024-04-13 19:13:08.385 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:250 - Disabled session validation scheduler.
+2024-04-13 19:13:11.570 INFO  com.smart.Application Line:55  - Starting Application on DESKTOP-IU823TD with PID 11420 (D:\Project\毕设源码\01 源码\smart-parking\target\classes started by Administrator in D:\Project\毕设源码\01 源码\smart-parking)
+2024-04-13 19:13:11.572 INFO  com.smart.Application Line:655 - The following profiles are active: dev
+2024-04-13 19:13:13.589 INFO  org.apache.catalina.core.StandardService Line:173 - Starting service [Tomcat]
+2024-04-13 19:13:13.591 INFO  org.apache.catalina.core.StandardEngine Line:173 - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2024-04-13 19:13:13.665 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring embedded WebApplicationContext
+2024-04-13 19:13:16.333 INFO  com.smart.Application Line:61  - Started Application in 5.176 seconds (JVM running for 5.525)
+2024-04-13 19:13:16.335 INFO  com.smart.Application Line:29  - 智慧停车场管理平台
+2024-04-13 19:13:20.080 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-13 19:13:20.097 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:233 - Enabling session validation scheduler...
+2024-04-13 19:19:00.273 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:250 - Disabled session validation scheduler.
+2024-04-13 19:19:03.097 INFO  com.smart.Application Line:55  - Starting Application on DESKTOP-IU823TD with PID 18528 (D:\Project\毕设源码\01 源码\smart-parking\target\classes started by Administrator in D:\Project\毕设源码\01 源码\smart-parking)
+2024-04-13 19:19:03.106 INFO  com.smart.Application Line:655 - The following profiles are active: dev
+2024-04-13 19:19:04.795 INFO  org.apache.catalina.core.StandardService Line:173 - Starting service [Tomcat]
+2024-04-13 19:19:04.796 INFO  org.apache.catalina.core.StandardEngine Line:173 - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2024-04-13 19:19:04.868 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring embedded WebApplicationContext
+2024-04-13 19:19:07.257 INFO  com.smart.Application Line:61  - Started Application in 4.666 seconds (JVM running for 5.019)
+2024-04-13 19:19:07.258 INFO  com.smart.Application Line:29  - 智慧停车场管理平台
+2024-04-13 19:19:28.982 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-13 19:19:28.997 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:233 - Enabling session validation scheduler...
+2024-04-13 19:20:14.247 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:250 - Disabled session validation scheduler.
+2024-04-13 19:20:16.871 INFO  com.smart.Application Line:55  - Starting Application on DESKTOP-IU823TD with PID 5572 (D:\Project\毕设源码\01 源码\smart-parking\target\classes started by Administrator in D:\Project\毕设源码\01 源码\smart-parking)
+2024-04-13 19:20:16.873 INFO  com.smart.Application Line:655 - The following profiles are active: dev
+2024-04-13 19:20:18.549 INFO  org.apache.catalina.core.StandardService Line:173 - Starting service [Tomcat]
+2024-04-13 19:20:18.550 INFO  org.apache.catalina.core.StandardEngine Line:173 - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2024-04-13 19:20:18.637 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring embedded WebApplicationContext
+2024-04-13 19:20:20.825 INFO  com.smart.Application Line:61  - Started Application in 4.315 seconds (JVM running for 4.642)
+2024-04-13 19:20:20.827 INFO  com.smart.Application Line:29  - 智慧停车场管理平台
+2024-04-13 19:20:32.491 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-13 19:20:32.506 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:233 - Enabling session validation scheduler...
+2024-04-13 19:29:54.097 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:250 - Disabled session validation scheduler.
+2024-04-13 19:29:56.771 INFO  com.smart.Application Line:55  - Starting Application on DESKTOP-IU823TD with PID 12520 (D:\Project\毕设源码\01 源码\smart-parking\target\classes started by Administrator in D:\Project\毕设源码\01 源码\smart-parking)
+2024-04-13 19:29:56.773 INFO  com.smart.Application Line:655 - The following profiles are active: dev
+2024-04-13 19:29:58.429 INFO  org.apache.catalina.core.StandardService Line:173 - Starting service [Tomcat]
+2024-04-13 19:29:58.431 INFO  org.apache.catalina.core.StandardEngine Line:173 - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2024-04-13 19:29:58.538 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring embedded WebApplicationContext
+2024-04-13 19:30:00.904 INFO  com.smart.Application Line:61  - Started Application in 4.494 seconds (JVM running for 4.826)
+2024-04-13 19:30:00.905 INFO  com.smart.Application Line:29  - 智慧停车场管理平台
+2024-04-13 19:30:11.082 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-13 19:30:11.107 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:233 - Enabling session validation scheduler...
+2024-04-13 20:42:49.593 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:275 - Validating all active sessions...
+2024-04-13 20:42:49.596 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:308 - Finished session validation.  No sessions were stopped.

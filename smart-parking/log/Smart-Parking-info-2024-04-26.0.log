@@ -1,0 +1,30 @@
+2024-04-26 09:39:25.419 INFO  com.smart.Application Line:55  - Starting Application on DESKTOP-IU823TD with PID 25424 (D:\Project\毕设源码\01 源码\smart-parking\target\classes started by Administrator in D:\Project\毕设源码\01 源码\smart-parking)
+2024-04-26 09:39:25.422 INFO  com.smart.Application Line:655 - The following profiles are active: dev
+2024-04-26 09:39:27.635 INFO  org.apache.catalina.core.StandardService Line:173 - Starting service [Tomcat]
+2024-04-26 09:39:27.636 INFO  org.apache.catalina.core.StandardEngine Line:173 - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2024-04-26 09:39:27.714 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring embedded WebApplicationContext
+2024-04-26 09:39:30.351 INFO  com.smart.Application Line:61  - Started Application in 5.394 seconds (JVM running for 5.841)
+2024-04-26 09:39:30.352 INFO  com.smart.Application Line:29  - 智慧停车场管理平台
+2024-04-26 09:39:48.273 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-26 09:39:48.289 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:233 - Enabling session validation scheduler...
+2024-04-26 09:41:17.132 INFO  com.baidu.aip.client.BaseClient Line:199 - get access_token success. current state: STATE_AIP_AUTH_OK
+2024-04-26 13:20:40.607 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:275 - Validating all active sessions...
+2024-04-26 13:20:40.617 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:308 - Finished session validation.  [1] sessions were stopped.
+2024-04-26 13:20:40.617 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:275 - Validating all active sessions...
+2024-04-26 13:20:40.617 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:308 - Finished session validation.  No sessions were stopped.
+2024-04-26 13:20:40.617 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:275 - Validating all active sessions...
+2024-04-26 13:20:40.617 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:308 - Finished session validation.  No sessions were stopped.
+2024-04-26 13:39:48.250 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:275 - Validating all active sessions...
+2024-04-26 13:39:48.253 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:308 - Finished session validation.  No sessions were stopped.
+2024-04-26 13:40:03.842 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:250 - Disabled session validation scheduler.
+2024-04-26 13:40:06.948 INFO  com.smart.Application Line:55  - Starting Application on DESKTOP-IU823TD with PID 31700 (D:\Project\毕设源码\01 源码\smart-parking\target\classes started by Administrator in D:\Project\毕设源码\01 源码\smart-parking)
+2024-04-26 13:40:06.950 INFO  com.smart.Application Line:655 - The following profiles are active: dev
+2024-04-26 13:40:08.918 INFO  org.apache.catalina.core.StandardService Line:173 - Starting service [Tomcat]
+2024-04-26 13:40:08.920 INFO  org.apache.catalina.core.StandardEngine Line:173 - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2024-04-26 13:40:09.018 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring embedded WebApplicationContext
+2024-04-26 13:40:12.004 INFO  com.smart.Application Line:61  - Started Application in 5.468 seconds (JVM running for 5.827)
+2024-04-26 13:40:12.006 INFO  com.smart.Application Line:29  - 智慧停车场管理平台
+2024-04-26 13:40:20.689 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-26 13:40:20.708 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:233 - Enabling session validation scheduler...
+2024-04-26 14:40:20.724 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:275 - Validating all active sessions...
+2024-04-26 14:40:20.730 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:308 - Finished session validation.  No sessions were stopped.

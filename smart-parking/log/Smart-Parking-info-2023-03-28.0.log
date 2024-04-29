@@ -1,0 +1,31 @@
+2023-03-28 10:56:14.894 INFO  com.smart.Application Line:55  - Starting Application on USER-20190430WD with PID 21032 (F:\其它\bysj\项目集\java\信息管理类项目\BS-XX-148 智能停车场管理系统-springboot-完整\01 源码\smart-parking\target\classes started by Administrator in F:\其它\bysj\项目集\java\信息管理类项目\BS-XX-148 智能停车场管理系统-springboot-完整\01 源码\smart-parking)
+2023-03-28 10:56:14.919 INFO  com.smart.Application Line:655 - The following profiles are active: dev
+2023-03-28 10:56:19.050 INFO  org.apache.catalina.core.StandardService Line:173 - Starting service [Tomcat]
+2023-03-28 10:56:19.059 INFO  org.apache.catalina.core.StandardEngine Line:173 - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2023-03-28 10:56:19.259 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring embedded WebApplicationContext
+2023-03-28 10:56:27.724 INFO  com.smart.Application Line:61  - Started Application in 14.839 seconds (JVM running for 17.267)
+2023-03-28 10:56:27.728 INFO  com.smart.Application Line:29  - 智能停车场管理平台
+2023-03-28 10:56:37.177 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-28 10:56:37.298 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:233 - Enabling session validation scheduler...
+2023-03-28 11:01:54.212 INFO  org.apache.coyote.http11.Http11Processor Line:175 - Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:418)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:260)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1594)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2023-03-28 11:04:48.279 INFO  com.baidu.aip.client.BaseClient Line:199 - get access_token success. current state: STATE_AIP_AUTH_OK
+2023-03-28 12:27:34.685 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:275 - Validating all active sessions...
+2023-03-28 12:27:34.686 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:308 - Finished session validation.  No sessions were stopped.
+2023-03-28 12:56:37.792 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:275 - Validating all active sessions...
+2023-03-28 12:56:37.793 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:308 - Finished session validation.  No sessions were stopped.
+2023-03-28 13:56:37.961 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:275 - Validating all active sessions...
+2023-03-28 13:56:37.980 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:308 - Finished session validation.  [4] sessions were stopped.
+2023-03-28 14:56:38.132 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:275 - Validating all active sessions...
+2023-03-28 14:56:38.133 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:308 - Finished session validation.  No sessions were stopped.
