@@ -10,7 +10,7 @@ spring:
         show-sql: true
     web:
         resources:
-            static-locations: classpath:/templates/
+            static-locations: classpath:/templates/,classpath:/static/
     thymeleaf:
         mode: HTML
         cache: false  # 禁用Thymeleaf缓存

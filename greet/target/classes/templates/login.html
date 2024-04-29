@@ -21,18 +21,20 @@
 					<td><label>
 						<input type="password" name="password">
 						<span th:text="${passwordErr}"></span>
+
 					</label></td>
 				</tr>
 				<tr>
 					<td colspan="2">
 						<input type="submit" value="登录">
 						<input type="reset" value="重置">
+						<a th:href="@{/go_reg}" target="_blank">注册</a>
 					</td>
 				</tr>
 			</table>
 		</form>
 		<span th:text="${msg}"></span>
 	</div>
-	<a th:href="@{/go_reg}" target="_blank">注册</a>
+
 </body>
 </html>
